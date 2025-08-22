@@ -4,7 +4,7 @@ The Sales Transactions dataset contains detailed records of product sales over a
 # Dashboard
 ## 📊 Sales Dashboard
 
-![Dashboard](https://github.com/Siddaling1/EXCEL/blob/main/Screenshot%20of%20Sales%20Dashboard1.png)
+![Dashboard](https://github.com/harshit-kr-dubey/Ecommerce-data-analysis/blob/main/Screenshot%20of%20Sales%20Dashboard1.png)
 
 # Questions 
 What is the Total Revenue?
